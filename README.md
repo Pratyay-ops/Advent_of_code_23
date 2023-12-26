@@ -1,5 +1,6 @@
 # Advent_of_code_23 with C++
-Welcome to the Advent of Code[^aoc] with C++ project created by [Pratyay][github] using the [own template][template]
+Welcome to the Advent of Code[^aoc] with C++ project created by [Pratyay][github] using the [own template][template].
+
 Advent of Code is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels
 ![image](https://github.com/Pratyay-ops/Advent_of_code_23/assets/129536170/782b55e8-62cd-4a1a-82fe-9e3ba03c61b4)
 
